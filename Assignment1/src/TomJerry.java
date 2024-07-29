@@ -1,3 +1,5 @@
+// This is the first assignment for the techademy platform
+
 import java.util.Scanner;
 
 public class TomJerry {
